@@ -1,22 +1,23 @@
 {
-  "store_id": 1140,
-  "name": "Ws Toys",
   "domain": "wstoys.netlify.app",
-  "short_name": "Ws Toys",
-  "description": ".",
+  "currency_symbol": "R$",
   "primary_color": "#333333",
-  "secondary_color": "#777777",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "united",
+    "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Ws Toys",
+  "short_name": "Ws Toys",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#777777",
+  "icon": "/img/icon.png",
+  "store_id": 1140,
+  "description": ".",
+  "large_icon": "/img/large-icon.png"
 }
