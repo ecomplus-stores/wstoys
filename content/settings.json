@@ -4,7 +4,7 @@
   "primary_color": "#333333",
   "theme": {
     "bootswatch": "darkly",
-    "custom": "clean-gray"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logototalmix.png",
