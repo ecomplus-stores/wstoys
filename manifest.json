@@ -26,8 +26,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Ws Toys",
-  "short_name": "Ws Toys",
+  "name": "Total Mix Store",
+  "short_name": "Total Mix",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
