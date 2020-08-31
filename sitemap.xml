@@ -500,6 +500,12 @@
     </url>
   
     <url>
+      <loc>https://wstoys.netlify.app/ovo-surpresa---unicornio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://wstoys.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -578,13 +584,13 @@
     </url>
   
     <url>
-      <loc>https://wstoys.netlify.app/app/index</loc>
+      <loc>https://wstoys.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://wstoys.netlify.app/admin/index</loc>
+      <loc>https://wstoys.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
