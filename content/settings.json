@@ -1,7 +1,7 @@
 {
   "domain": "wstoys.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#333131",
   "theme": {
     "bootswatch": "darkly",
     "custom": "_"
