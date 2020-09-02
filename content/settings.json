@@ -1,12 +1,12 @@
 {
   "domain": "wstoys.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#080808",
   "theme": {
     "bootswatch": "darkly",
     "custom": "_"
   },
-  "bg_color": "#333333",
+  "bg_color": "#fb0000",
   "logo": "/img/uploads/logototalmix.png",
   "name": "Total Mix Store",
   "short_name": "Total Mix",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#f00000",
+  "secondary_color": "#ffffff",
   "icon": "/img/icon.png",
   "store_id": 1140,
   "description": ".",
