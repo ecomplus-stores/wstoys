@@ -26,12 +26,6 @@
     </url>
   
     <url>
-      <loc>https://wstoys.netlify.app/caneta-risca-e-rabisca-c/-6</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://wstoys.netlify.app/garrafa-cawboy-300ml</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -164,12 +158,6 @@
     </url>
   
     <url>
-      <loc>https://wstoys.netlify.app/bolha-de-sabao-espada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://wstoys.netlify.app/expande-neve-color</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -267,12 +255,6 @@
   
     <url>
       <loc>https://wstoys.netlify.app/mola-mania---unicornio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://wstoys.netlify.app/bocao-unicornio</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
