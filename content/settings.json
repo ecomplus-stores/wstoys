@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#333131",
   "theme": {
-    "bootswatch": "darkly",
-    "custom": "_"
+    "bootswatch": "lux",
+    "custom": "clean-white"
   },
   "bg_color": "#fb0000",
   "logo": "/img/uploads/logototalmix.png",
