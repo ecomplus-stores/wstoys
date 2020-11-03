@@ -512,6 +512,18 @@
     </url>
   
     <url>
+      <loc>https://wstoys.netlify.app/boneco-aventura-na-selva</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://wstoys.netlify.app/lanca-bolha-de-agua</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://wstoys.netlify.app/promocoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
